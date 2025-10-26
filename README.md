@@ -13,9 +13,9 @@ Driven by a passion for technological innovation and equipped with keen emotiona
 <br>
 <br>
 
-- 🔧 **Systems Analyst & Engineer** specializing in infrastructure automation
+- 🔧 **Systems Analyst & Engineer** specializing in infrastructure and enterprise workplace automation
 - ☁️ Currently focused on **Cloud Engineering**, **DevOps**, and **AI Automation**
-- 📊 Expert in **Data Engineering** and **Monitoring Solutions**
+- 📊 Expert in **Cloud & Data Management** and **Monitoring & Observability**
 - 🤝 Open to collaborations in **Cloud Architecture**, **DevOps**, and **Systems Engineering**
 - 🎯 Passionate about delivering scalable, cost-effective solutions
 
