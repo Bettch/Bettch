@@ -13,10 +13,10 @@ Driven by a passion for technological innovation and equipped with keen emotiona
 <br>
 <br>
 
+- 🎓 Bachelor of **Business Information Systems** from **Swinburne University of Technology**
 - 🔧 **Systems Analyst & Engineer** specializing in infrastructure and enterprise workplace automation
 - ☁️ Currently focused on **Cloud Engineering**, **DevOps**, and **AI Automation**
 - 📊 Expert in **Cloud & Data Management** and **Monitoring & Observability**
-- 🎓 Bachelor of **Business Information Systems** from **Swinburne University of Technology**
 - 🤝 Open to collaborations in **Cloud Architecture**, **DevOps**, and **Systems Engineering**
 - 🎯 Passionate about delivering scalable, cost-effective solutions
 
@@ -40,11 +40,11 @@ Driven by a passion for technological innovation and equipped with keen emotiona
 ![Dynatrace](https://img.shields.io/badge/-Dynatrace-1496FF?style=flat&logo=dynatrace&logoColor=white)
 ![PRTG](https://img.shields.io/badge/-PRTG-00B1E7?style=flat&logo=paessler&logoColor=white)
 
-#### Databases & Data Management
+#### Data & Analytics
 ![MSSQL](https://img.shields.io/badge/-SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
 ![Azure SQL](https://img.shields.io/badge/-Azure_SQL-0089D6?style=flat&logo=microsoft-azure&logoColor=white)
 ![SSMS](https://img.shields.io/badge/-SQL_Management_Studio-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
-![SSIS](https://img.shields.io/badge/-SSIS-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
+![Power BI](https://img.shields.io/badge/-Power_BI-F2C811?style=flat&logo=power-bi&logoColor=black)
 
 #### Development & Automation
 ![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
@@ -119,7 +119,7 @@ Driven by a passion for technological innovation and equipped with keen emotiona
   - System Center Configuration Management
   - Identity and access management
   - Performance monitoring and optimization
-  - Database administration and optimization
+  - Data analytics and business intelligence solutions
 
 ### 📫 Let's Connect
 
