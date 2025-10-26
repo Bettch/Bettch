@@ -13,6 +13,7 @@ Driven by a passion for technological innovation and equipped with keen emotiona
 <br>
 <br>
 
+- 🎓 Bachelor of **Business Information Systems** from **Swinburne University of Technology**
 - 🔧 **Systems Analyst & Engineer** specializing in infrastructure and enterprise workplace automation
 - ☁️ Currently focused on **Cloud Engineering**, **DevOps**, and **AI Automation**
 - 📊 Expert in **Cloud & Data Management** and **Monitoring & Observability**
@@ -28,23 +29,35 @@ Driven by a passion for technological innovation and equipped with keen emotiona
 #### Cloud & Infrastructure
 ![Azure](https://img.shields.io/badge/-Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![VMware](https://img.shields.io/badge/-VMware-607078?style=flat&logo=vmware&logoColor=white)
 ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
 ![Azure DevOps](https://img.shields.io/badge/-Azure_DevOps-0078D7?style=flat&logo=azure-devops&logoColor=white)
 
-#### Automation & Development
+#### Monitoring & Observability
+![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat&logo=grafana&logoColor=white)
+![Azure Monitor](https://img.shields.io/badge/-Azure_Monitor-0089D6?style=flat&logo=microsoft-azure&logoColor=white)
+![AWS CloudWatch](https://img.shields.io/badge/-CloudWatch-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Dynatrace](https://img.shields.io/badge/-Dynatrace-1496FF?style=flat&logo=dynatrace&logoColor=white)
+![PRTG](https://img.shields.io/badge/-PRTG-00B1E7?style=flat&logo=paessler&logoColor=white)
+
+#### Development & Automation
 ![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
+![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=flat&logo=ansible&logoColor=white)
 
 #### Microsoft Stack
 ![Power Platform](https://img.shields.io/badge/-Power_Platform-742774?style=flat&logo=microsoft&logoColor=white)
 ![M365](https://img.shields.io/badge/-Microsoft_365-D83B01?style=flat&logo=microsoft-office&logoColor=white)
 ![SharePoint](https://img.shields.io/badge/-SharePoint-0078D4?style=flat&logo=microsoft-sharepoint&logoColor=white)
+![System Center](https://img.shields.io/badge/-System_Center-00A4EF?style=flat&logo=microsoft&logoColor=white)
 
 #### Web Technologies
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 <br>
 
@@ -91,16 +104,16 @@ Driven by a passion for technological innovation and equipped with keen emotiona
   - Automating routine operations and maintenance tasks
 
 - **Cloud & DevOps**
-  - Multi-cloud architecture (Azure/AWS)
-  - Infrastructure as Code with Terraform
+  - Multi-cloud architecture (Azure/AWS/VMware)
+  - Infrastructure as Code with Terraform and Ansible
   - CI/CD pipeline optimization
-  - Monitoring and observability solutions
+  - Comprehensive monitoring and observability solutions
 
-- **Data Engineering**
-  - Data pipeline development
-  - ETL process automation
-  - Business intelligence solutions
-  - Performance optimization
+- **Enterprise Systems Management**
+  - Microsoft 365 and Power Platform administration
+  - System Center Configuration Management
+  - Identity and access management
+  - Performance monitoring and optimization
 
 ### 📫 Let's Connect
 
