@@ -60,9 +60,7 @@ Driven by a passion for technological innovation and equipped with keen emotiona
 
 I'm always open to exciting opportunities in:
 - Systems Analysis & Engineering
-- Cloud Engineering
-- DevOps Engineering
-- Innovative Tech Projects
+- Cloud & DevOps Engineering
 
 💼 Connect with me on [LinkedIn](https://linkedin.com/in/jordanbettcher)
 
