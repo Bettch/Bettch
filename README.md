@@ -54,27 +54,27 @@ Driven by a passion for technological innovation and equipped with keen emotiona
       <td>
         <picture>
           <source
-            srcset="https://github-readme-stats.vercel.app/api?username=jordanbettcher&show_icons=true&theme=tokyonight"
+            srcset="https://github-readme-stats.vercel.app/api?username=bettch&show_icons=true&theme=tokyonight"
             media="(prefers-color-scheme: dark)"
           />
           <source
-            srcset="https://github-readme-stats.vercel.app/api?username=jordanbettcher&show_icons=true"
+            srcset="https://github-readme-stats.vercel.app/api?username=bettch&show_icons=true"
             media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
           />
-          <img src="https://github-readme-stats.vercel.app/api?username=jordanbettcher&show_icons=true" />
+          <img src="https://github-readme-stats.vercel.app/api?username=bettch&show_icons=true" />
         </picture>
       </td>
       <td>
         <picture>
           <source
-            srcset="https://github-readme-streak-stats.herokuapp.com/?user=jordanbettcher&theme=tokyonight"
+            srcset="https://github-readme-streak-stats.herokuapp.com/?user=bettch&theme=tokyonight"
             media="(prefers-color-scheme: dark)"
           />
           <source
-            srcset="https://github-readme-streak-stats.herokuapp.com/?user=jordanbettcher"
+            srcset="https://github-readme-streak-stats.herokuapp.com/?user=bettch"
             media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
           />
-          <img src="https://github-readme-streak-stats.herokuapp.com/?user=jordanbettcher" />
+          <img src="https://github-readme-streak-stats.herokuapp.com/?user=bettch" />
         </picture>
       </td>
     </tr>   
