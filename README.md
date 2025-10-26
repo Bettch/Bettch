@@ -1,6 +1,12 @@
 ### Hello, World! I'm Jordan Bettcher 👋
 
+<div align="left">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&duration=3000&pause=1000&color=0077B5&vCenter=true&width=500&lines=Systems+Analyst+%26+Engineer;Cloud+Architecture+Specialist;DevOps+Engineer;Infrastructure+Automation+Expert)](https://git.io/typing-svg)
+
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jordanbettcher/)](https://www.linkedin.com/in/jordanbettcher/) ![](https://komarev.com/ghpvc/?username=jordanbettcher&color=2D9596)
+
+</div>
 
 <p align="left">
 Driven by a passion for technological innovation and equipped with keen emotional intelligence, I am a Senior Systems Analyst & Engineer with extensive experience in managing cloud and on-premise IT infrastructure. Specializing in transformation projects and cost optimization, I excel at translating complex business requirements into efficient technological solutions.
