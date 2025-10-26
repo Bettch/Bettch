@@ -1,83 +1,107 @@
-# <div align="center">👋 Hello, I'm Jordan Bettcher</div>
+### Hello, World! I'm Jordan Bettcher 👋
 
-<div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2D9596&center=true&vCenter=true&random=false&width=435&lines=Systems+Analyst+%26+Engineer;Cloud+Engineering+Enthusiast;DevOps+Practitioner;Automation+Specialist)](https://git.io/typing-svg)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jordanbettcher/)](https://www.linkedin.com/in/jordanbettcher/) ![](https://komarev.com/ghpvc/?username=jordanbettcher&color=2D9596)
 
-<p align="center">
-  <a href="https://linkedin.com/in/jordanbettcher" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
+<p align="left">
+Driven by a passion for technological innovation and equipped with keen emotional intelligence, I am a Senior Systems Analyst & Engineer with extensive experience in managing cloud and on-premise IT infrastructure. Specializing in transformation projects and cost optimization, I excel at translating complex business requirements into efficient technological solutions.
+<br>
+<br>
+
+- 🔧 **Systems Analyst & Engineer** specializing in infrastructure automation
+- ☁️ Currently focused on **Cloud Engineering**, **DevOps**, and **AI Automation**
+- 📊 Expert in **Data Engineering** and **Monitoring Solutions**
+- 🤝 Open to collaborations in **Cloud Architecture**, **DevOps**, and **Systems Engineering**
+- 🎯 Passionate about delivering scalable, cost-effective solutions
+
 </p>
 
-</div>
+---
 
-## 🚀 About Me
+### 🛠️ Tech Stack & Tools
 
-Driven by a passion for technological innovation and equipped with keen emotional intelligence, I am a highly skilled IT professional specializing in cloud and on-premise infrastructure management. My expertise lies in transforming complex business requirements into efficient technological solutions, with a focus on:
+#### Cloud & Infrastructure
+![Azure](https://img.shields.io/badge/-Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/-Azure_DevOps-0078D7?style=flat&logo=azure-devops&logoColor=white)
 
-- 🔧 Infrastructure Automation & DevOps
-- ☁️ Cloud Architecture & Engineering
-- 📊 Data Engineering & Analytics
-- 🔍 Monitoring & Observability
-- 🤖 AI-Driven Automation
+#### Automation & Development
+![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
 
-## 💻 Technical Arsenal
+#### Microsoft Stack
+![Power Platform](https://img.shields.io/badge/-Power_Platform-742774?style=flat&logo=microsoft&logoColor=white)
+![M365](https://img.shields.io/badge/-Microsoft_365-D83B01?style=flat&logo=microsoft-office&logoColor=white)
+![SharePoint](https://img.shields.io/badge/-SharePoint-0078D4?style=flat&logo=microsoft-sharepoint&logoColor=white)
 
-<div align="center">
+#### Web Technologies
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
-### Cloud & Infrastructure
-![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+<br>
 
-### Development & Automation
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+<center>
+  <table>
+    <tr>
+      <td>
+        <picture>
+          <source
+            srcset="https://github-readme-stats.vercel.app/api?username=jordanbettcher&show_icons=true&theme=tokyonight"
+            media="(prefers-color-scheme: dark)"
+          />
+          <source
+            srcset="https://github-readme-stats.vercel.app/api?username=jordanbettcher&show_icons=true"
+            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+          />
+          <img src="https://github-readme-stats.vercel.app/api?username=jordanbettcher&show_icons=true" />
+        </picture>
+      </td>
+      <td>
+        <picture>
+          <source
+            srcset="https://github-readme-streak-stats.herokuapp.com/?user=jordanbettcher&theme=tokyonight"
+            media="(prefers-color-scheme: dark)"
+          />
+          <source
+            srcset="https://github-readme-streak-stats.herokuapp.com/?user=jordanbettcher"
+            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+          />
+          <img src="https://github-readme-streak-stats.herokuapp.com/?user=jordanbettcher" />
+        </picture>
+      </td>
+    </tr>   
+  </table>
+</center>
 
-### Platforms & Tools
-![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
-![Power Platform](https://img.shields.io/badge/Power_Platform-742774?style=for-the-badge&logo=microsoft&logoColor=white)
-![M365](https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
+---
 
-### Web Technologies
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+### 🎯 Professional Focus
 
-</div>
+- **Infrastructure Automation**
+  - Designing and implementing scalable cloud solutions
+  - Optimizing deployment pipelines and workflows
+  - Automating routine operations and maintenance tasks
 
-## 🎯 Professional Focus
+- **Cloud & DevOps**
+  - Multi-cloud architecture (Azure/AWS)
+  - Infrastructure as Code with Terraform
+  - CI/CD pipeline optimization
+  - Monitoring and observability solutions
 
-- 🔄 **DevOps Engineering**: Streamlining development workflows and implementing CI/CD pipelines
-- 🌐 **Cloud Engineering**: Architecting scalable and resilient cloud solutions
-- 📈 **Data Engineering**: Building robust data pipelines and analytics solutions
-- 🤖 **AI Automation**: Leveraging artificial intelligence for process optimization
-- 📊 **Monitoring & Observability**: Implementing comprehensive system monitoring solutions
+- **Data Engineering**
+  - Data pipeline development
+  - ETL process automation
+  - Business intelligence solutions
+  - Performance optimization
 
-## 🤝 Let's Connect
+### 📫 Let's Connect
 
-I'm always open to exciting opportunities in:
+I'm always interested in connecting with fellow tech enthusiasts and discussing opportunities in:
 - Systems Analysis & Engineering
-- Cloud & DevOps Engineering
+- Cloud Architecture
+- DevOps Implementation
+- Digital Transformation Projects
 
-💼 Connect with me on [LinkedIn](https://linkedin.com/in/jordanbettcher)
-
----
-
-<div align="center">
-
-### 📈 GitHub Activity
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jordanbettcher&show_icons=true&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jordanbettcher&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=jordanbettcher&color=2D9596&style=flat-square" alt="Profile views"/>
-</div>
+Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/jordanbettcher/) to discuss potential collaborations or share ideas!
