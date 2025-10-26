@@ -13,12 +13,12 @@ Driven by a passion for technological innovation and equipped with keen emotiona
 <br>
 <br>
 
-- 🎓 Bachelor of **Business Information Systems** from **Swinburne University of Technology**
 - 🔧 **Systems Analyst & Engineer** specializing in infrastructure and enterprise workplace automation
 - ☁️ Currently focused on **Cloud Engineering**, **DevOps**, and **AI Automation**
 - 📊 Expert in **Cloud & Data Management** and **Monitoring & Observability**
+- 🎓 Bachelor of **Business Information Systems** from **Swinburne University of Technology**
 - 🤝 Open to collaborations in **Cloud Architecture**, **DevOps**, and **Systems Engineering**
-- 🎯 Passionate about delivering scalable, cost-effective solutions
+- 🎯 Passionate about delivering scalable, maintainable, cost-effective solutions
 
 </p>
 
