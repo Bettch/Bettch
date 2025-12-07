@@ -2,7 +2,7 @@
 
 <div align="left">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&duration=3000&pause=1000&color=0077B5&vCenter=true&width=500&lines=Systems+Analyst+%26+Engineer;Cloud+Architecture+Specialist;DevOps+Engineer;Infrastructure+Automation+Expert)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&duration=3000&pause=1000&color=0077B5&vCenter=true&width=500&lines=Systems+Analyst+%26+Engineer;Cloud+Services+Specialist;DevOps+Engineer;Infrastructure+Automation+Expert)](https://git.io/typing-svg)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jordanbettcher/)](https://www.linkedin.com/in/jordanbettcher/) [![Github Badge](https://img.shields.io/badge/-GitHub-242A2D?style=flat&logo=Github&logoColor=white&link=https://github.com/bettch/)](https://github.com/bettch/) ![](https://komarev.com/ghpvc/?username=bettch&color=2D9596)
 
