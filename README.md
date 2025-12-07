@@ -9,7 +9,7 @@
 </div>
 
 <p align="left">
-Driven by a passion for technological innovation and equipped with keen emotional intelligence, I am a Senior Systems Analyst & Engineer with extensive experience in managing cloud and on-premise IT infrastructure. Specializing in transformation projects and cost optimization, I excel at translating complex business requirements into efficient technological solutions.
+I am a Systems Analyst & generalist infrastructure engineer with extensive experience in leading cloud and on-premise IT infrastructure for large enterprise. I'm driven by a passion for technological innovation, continual exploration & learning. I like working on technology transformation projects and excel at translating complex business requirements into effective business solutions.
 <br>
 <br>
 
